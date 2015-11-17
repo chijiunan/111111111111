@@ -1,3 +1,4 @@
 versionCode=1;
 versionName=1.0;
-context=null;
+context=新增更多轰炸。;
+openUrl=http://d244.ysapk.com/ipa.html;
